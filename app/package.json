@@ -1,0 +1,65 @@
+{
+  "name": "nativescript-template-ng-tutorial",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "Template for starting the NativeScript Getting Started Tutorial",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvantoll/nativescript-template-ng-tutorial.git"
+  },
+  "nativescript": {
+    "id": "org.nativescript.tutorial"
+  },
+  "dependencies": {
+    "@angular/common": "2.4.3",
+    "@angular/compiler": "2.4.3",
+    "@angular/core": "2.4.3",
+    "@angular/forms": "2.4.3",
+    "@angular/http": "2.4.3",
+    "@angular/platform-browser": "2.4.3",
+    "@angular/platform-browser-dynamic": "2.4.3",
+    "@angular/router": "3.4.3",
+    "nativescript-angular": "1.4.0",
+    "nativescript-theme-core": "~1.0.2",
+    "reflect-metadata": "~0.1.8",
+    "rxjs": "~5.0.1",
+    "tns-core-modules": "2.5.0"
+  },
+  "devDependencies": {
+    "nativescript-dev-android-snapshot": "^0.*.*",
+    "nativescript-dev-typescript": "^0.3.5",
+    "typescript": "~2.1.0",
+    "zone.js": "~0.7.2"
+  },
+  "gitHead": "1a7b9b2ed667f49798ab9aec82d03c6e29af1571",
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-template-ng-tutorial/issues"
+  },
+  "homepage": "https://github.com/tjvantoll/nativescript-template-ng-tutorial#readme",
+  "_id": "nativescript-template-ng-tutorial@1.0.0",
+  "scripts": {},
+  "_shasum": "373cfa7ad0d3caec076da18b17cf2ae310b83e0e",
+  "_from": "nativescript-template-ng-tutorial@latest",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "tjvantoll",
+    "email": "tj.vantoll@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "tjvantoll",
+      "email": "tj.vantoll@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "373cfa7ad0d3caec076da18b17cf2ae310b83e0e",
+    "tarball": "https://registry.npmjs.org/nativescript-template-ng-tutorial/-/nativescript-template-ng-tutorial-1.0.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-template-ng-tutorial-1.0.0.tgz_1485960867440_0.8405531924217939"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nativescript-template-ng-tutorial/-/nativescript-template-ng-tutorial-1.0.0.tgz"
+}
