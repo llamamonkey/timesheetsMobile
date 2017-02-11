@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "432603108078",
+    "firebase_url": "https://timesheets-llamamonkey.firebaseio.com",
+    "project_id": "timesheets-llamamonkey",
+    "storage_bucket": "timesheets-llamamonkey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432603108078:android:0e26c73bae57183e",
+        "android_client_info": {
+          "package_name": "com.llamamonkey.timesheetsMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432603108078-38n299abltsa270bgbjkrtd6g6nbkmsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg75_HqpHJGMp5xYJs2cTgypTbxknUABM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
