@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 @Component({
   selector: "my-app",
   template: `
-    <ActionBar title="My App"></ActionBar>
+    <ActionBar title="Timesheets"></ActionBar>
     <!-- Your UI components go here -->
   `
 })
