@@ -5,6 +5,7 @@ import { Component } from "@angular/core";
   template: `
     <ActionBar title="Timesheets"></ActionBar>
     <!-- Your UI components go here -->
+    <router-outlet></router-outlet>
   `
 })
 export class AppComponent {
